@@ -1,0 +1,18 @@
+<!-- What is HTML, and what is its role in the web development? -->
+Html stands for hyper text markup language, it helps in building the structure of web pages. 
+It works like the bricks of wall which build the structure of house. 
+
+<!-- What is a web development? -->
+Web development refers to the tasks associated with creating, building and maintaining websites and web applications
+that run online on a browser.
+
+<!-- What are the core technoligies used in web development? -->
+
+The core technologies used in web development include: HTMl (Hypertext markup language),
+CSS (Cascading Style Sheets), and Javascript.
+
+<!--  What is CSS and What is its purpose? -->
+CSS stands for Cascading Style Sheets, it is used to designing the web pages.
+
+<!-- What are the basic date types in Javascript? -->
+The basic data types in Javascript are:- Strings, Numbers, Booleans, undefined and null.
